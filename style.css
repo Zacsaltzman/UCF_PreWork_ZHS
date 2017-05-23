@@ -1,0 +1,49 @@
+h1 {
+	text-align: center;
+}
+
+#p01 {
+	color: red;
+}
+
+#p02 {
+	color: blue;
+}
+
+#p03 {
+	color: green;
+}
+
+#p04 {
+	font-size: 200%;
+}
+
+#p05 {
+	font-size: 50%;
+}
+
+#p06 {
+	text-align: center;
+}
+
+#p07 {
+	font-weight: bold;
+}
+
+#p08 {
+	font-family: courier;
+}
+
+#p09 {
+	font-size: 200%;
+	color: orange;
+	font-weight: bold;
+}
+
+.styledFont {
+	color: green;
+}
+
+#styledImage {
+	border: 10px solid orange;
+}
